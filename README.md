@@ -1,6 +1,5 @@
 # Learning github
 
-## git and github connection 
 
  # Git
 
